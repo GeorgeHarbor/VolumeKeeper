@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Volume Keeper</string>
+    <string name="service_description">Keeps the media volume at maximum, re-asserting it whenever an app opens (works around firmware that mutes the HDMI output on app changes).</string>
+    <string name="status_on">Volume Keeper is ON. Media volume is held at maximum.</string>
+    <string name="status_off">Volume Keeper is OFF. Enable it under Settings → Accessibility → Volume Keeper.</string>
+    <string name="open_accessibility">Open Accessibility settings</string>
+</resources>
